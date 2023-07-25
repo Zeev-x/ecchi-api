@@ -1,0 +1,27 @@
+{
+  "name": "ecchi-api",
+  "version": "1.0.0",
+  "description": "Memberi gambar henta* secara random",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [],
+  "author": "Zeev-x",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zeev-x/ecchi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Zeev-x/ecchi/issues"
+  },
+  "homepage": "https://github.com/Zeev-x/ecchi#readme"
+}
